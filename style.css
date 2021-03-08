@@ -1,0 +1,28 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+header {
+    font-size: 30px;
+    color: cornflowerblue;
+}
+
+main {
+    background-image: url("bmi.jpg");
+    background-size: cover;
+    height: 700px;
+}
+
+.blok {
+    float: left;
+    width: 26%;
+    height: 500px;
+    background-color: rgba(255, 255, 255, 0.678);
+    margin-left: 5%;
+    margin-top: 40px;
+    padding: 10px;
+}
+
+#info2 {
+    text-align: center;
+}
